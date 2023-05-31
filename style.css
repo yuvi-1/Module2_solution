@@ -1,0 +1,40 @@
+body{
+    background-color: yellow;
+}
+
+.container{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    margin-top: 120px;
+    
+}
+.heading{
+    text-align: center;
+    font-size: 20px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    margin-top: 50px;
+}
+
+
+.contain{
+    background-color:grey;
+    margin: 23px;
+   width: 300px;
+    text-align: center;
+    border: 2px solid green;
+    
+   
+}
+.contain h1{
+    background-color: aqua;
+    margin-top: 0;
+    
+    padding-right: 10px;
+    border: 2px solid green;
+    text-align: end;
+
+}
+.contain p{
+    padding: 10px;
+}
